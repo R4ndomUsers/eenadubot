@@ -1,0 +1,16 @@
+ren "AMARAVATI.pdf" Amaravathi.pdf
+ren "ANANTAPUR.pdf" Ananthapur.pdf
+ren "CHITTOOR.pdf" Chittoor.pdf
+ren "EAST_GODAVARI.pdf" EastGodavari.pdf
+ren "GUNTUR_CITY.pdf" Guntur.pdf
+ren "GUNTUR_RURAL.pdf" GunturC.pdf
+ren "KADAPA.pdf" Kadapa.pdf
+ren "KRISHNA.pdf" Krishna.pdf
+ren "KURNOOL.pdf" Kurnool.pdf
+ren "NELLORE.pdf" Nellore.pdf
+ren "PRAKASAM.pdf" Prakasam.pdf
+ren "SRIKAKULAM.pdf" Srikakulam.pdf
+ren "VISAKHAPATNAM_CITY.pdf" Vizag_City.pdf
+ren "VISAKHAPATNAM.pdf" Vizag_Rural.pdf
+ren "VIZIANAGARAM.pdf" Vijayanagaram.pdf
+ren "WEST_GODAVARI.pdf" WestGodavari.pdf
