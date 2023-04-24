@@ -1,0 +1,7 @@
+aiohttp
+img2pdf
+pillow
+pyrogram>=2.0.30
+pytz
+requests
+tgcrypto
